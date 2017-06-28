@@ -1,6 +1,8 @@
 # Pujangga - Indonesian Natural Language Processing REST API
 
-This is an interface for InaNLP and Deeplearning4j's Word2Vec for Indonesian (Bahasa Indonesia)
+This is an interface for InaNLP and Deeplearning4j's Word2Vec for Indonesian (Bahasa Indonesia) in a form of REST API.
+
+Screenshot of Pujangga request and response using Paw REST Client
 
 ![screenshot](https://panggi.s3.amazonaws.com/public/media/pujangga.jpg "Screenshot of Pujangga request and response using Paw REST Client")
 

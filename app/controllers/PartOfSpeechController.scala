@@ -3,11 +3,12 @@ package controllers
 import scala.collection.JavaConverters._
 import scala.collection.mutable.ListBuffer
 import scala.util.{Failure, Success, Try}
-import javax.inject.Inject
+import javax.inject._
 import play.api.libs.json.{JsArray, JsValue, Json}
 import play.api.mvc._
 import IndonesianNLP._
 
+@Singleton
 class PartOfSpeechController @Inject()(cc: ControllerComponents) extends AbstractController(cc) {
 
   def tagger: Action[JsValue] = Action(parse.json) { implicit request: Request[JsValue] =>

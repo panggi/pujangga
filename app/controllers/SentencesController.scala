@@ -3,11 +3,12 @@ package controllers
 import scala.collection.JavaConverters._
 import scala.collection.mutable.ListBuffer
 import scala.util.{Failure, Success, Try}
-import javax.inject.Inject
+import javax.inject._
 import play.api.libs.json.{JsValue, Json}
 import play.api.mvc._
 import IndonesianNLP._
 
+@Singleton
 class SentencesController @Inject()(cc: ControllerComponents) extends AbstractController(cc) {
   val sentenceTokenizer = new IndonesianSentenceTokenizer
   val sentenceDetector = new IndonesianSentenceDetector

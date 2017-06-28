@@ -1,7 +1,7 @@
 package services
 
 import scala.concurrent._
-import javax.inject.Singleton
+import javax.inject._
 import play.api.http.HttpErrorHandler
 import play.api.libs.json._
 import play.api.mvc.Results._

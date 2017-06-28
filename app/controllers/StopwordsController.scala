@@ -1,11 +1,12 @@
 package controllers
 
 import scala.util.{Failure, Success, Try}
-import javax.inject.Inject
+import javax.inject._
 import play.api.libs.json.{JsValue, Json}
 import play.api.mvc._
 import IndonesianNLP._
 
+@Singleton
 class StopwordsController @Inject()(cc: ControllerComponents) extends AbstractController(cc) {
   val formalizer = new IndonesianSentenceFormalization
 

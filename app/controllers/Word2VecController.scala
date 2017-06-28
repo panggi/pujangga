@@ -4,13 +4,14 @@ import scala.collection.mutable.ListBuffer
 import scala.collection.JavaConverters._
 import scala.util.{Failure, Success, Try}
 import java.io.File
-import javax.inject.Inject
+import javax.inject._
 import play.api.libs.json.{JsValue, Json}
 import play.api.mvc._
 import play.api.Configuration
 import org.deeplearning4j.models.embeddings.loader.WordVectorSerializer
 import org.deeplearning4j.models.word2vec.Word2Vec
 
+@Singleton
 class Word2VecController @Inject() (cc: ControllerComponents, configuration: Configuration) extends AbstractController(cc) {
   val word2VecIdFile = new File(configuration.underlying.getString("models.word2vec"))
   val word2VecIdModel: Word2Vec = WordVectorSerializer.readWord2VecModel(word2VecIdFile)

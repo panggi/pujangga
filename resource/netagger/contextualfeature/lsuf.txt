@@ -1,0 +1,9 @@
+Barat
+City
+Pusat
+Raya
+Selatan
+Tengah
+Tenggara
+Timur
+Utara

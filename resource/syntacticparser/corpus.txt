@@ -1,0 +1,3201 @@
+1 adik/<*NNP> membeli/<*VBT> susu/<*NN> kemarin/<*NN>  ./<*.>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<*VBT>
+			<NP>
+				<*NN>
+			<PP>
+				<*NN>
+		<*.>
+2 Jangan/<*NEG> bermain-main/<*VBI> saja/<*RB> kamu/<*PRP> !/<*.>
+<SENTENCE>
+	<S>
+		<VP>
+			<*NEG>
+			<VP>
+				<*VBI>
+				<*RB>
+		<NP>
+			<*PRP>
+		<*.>
+3 ketika/<*SC> saya/<*PRP> pulang/<*VBI> ke/<*IN> rumah/<*NN> ,/<*,> hari/<*NN> hujan/<*NN> ./<*.>
+<SENTENCE>
+	<S>
+		<*SC>
+		<S>
+			<NP>
+				<*PRP>
+			<VP>
+				<*VBI>
+				<PP>
+					<*IN>
+					<NP>
+						<*NN>
+		<*,>
+		<S>
+			<NP>
+				<*NN>
+			<VP>	
+				<*NN>
+		<*.>
+4 ketika/<*SC> saya/<*PRP> pulang/<*VBI> ke/<*IN> rumah/<*NN> ,/<*,> hari/<*NN> hujan/<*NN>
+<SENTENCE>
+	<S>
+		<*SC>
+		<S>
+			<NP>
+				<*PRP>
+			<VP>
+				<*VBI>
+				<PP>
+					<*IN>
+					<NP>
+						<*NN>
+		<*,>
+		<S>
+			<NP>
+				<*NN>
+			<VP>
+				<*NN>
+5 Apakah/<*WP> kamu/<*PRP> sakit/<*JJ> ?/<*.>
+<SENTENCE>
+	<S>
+		<SBARQ>
+			<WHNP>
+				<*WP>
+			<NP>
+				<*PRP>
+			<ADJP>
+				<*JJ>
+		<*.>
+6 budi/<*NN> bermain/<*JJ> bola/<*NN> sedangkan/<*CC> ina/<*NN> bermain/<*JJ> boneka/<*NN> ./<*.> 
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*NN>
+			<VP>
+				<VP>
+					<*JJ>
+				<NP>
+					<*NN>
+		<*CC>
+		<S>
+			<NP>
+				<*NNP>
+			<VP>
+				<VP>
+					<*JJ>
+				<NP>
+					<*NN>
+		<*.>
+7 budi/<*NN> bermain/<*JJ> bola/<*NN> sedangkan/<*CC> ina/<*NN> bermain/<*JJ> boneka/<*NN>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*NN>
+			<VP>
+				<VP>
+					<*JJ>
+				<NP>
+					<*NN>
+		<*CC>
+		<S>
+			<NP>
+				<*NN>
+			<VP>
+				<VP>
+					<*JJ>
+				<NP>
+					<*NN>
+8 Harga/<*NN> buku/<*NN> itu/<*DT> sepuluh/<*CDP> ribu/<*CDP> rupiah/<*NN>  
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*NN>
+				<*NN>
+			<*DT>
+		<VP>
+			<QP>
+				<*CDP>
+				<*CDP>
+			<*NN>
+9 Ikan/<*NN> dipancing/<*VBT> oleh/<*IN> bapak/<*NN> 
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+		<VP>
+			<*VBT>
+			<PP>
+				<*IN>
+				<NP>
+					<*NN>
+10 Ikan/<*NN> dipancing/<*VBT> oleh/<*IN> bapak/<*NN> di/<*in> sungai/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+		<VP>
+			<*VBT>
+			<PP>
+				<PP>
+					<*IN>
+					<NP>
+						<*NN>
+				<PP>
+					<*IN>
+					<NP>
+						<*NN>
+11 Nina/<*NNP> menulis/<*VBT> surat/<*NN> untuk/<*IN> nenek/<*NNP>  
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<*VBT>
+			<NP>
+				<*NN>
+			<PP>
+				<*IN>
+				<NP>
+					<*NNP>
+12 Paman/<*NNP> mencarikan/<*VBT> saya/<*PRP> pekerjaan/<*NN>  
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<*VBT>
+			<NP>
+				<*PRP>
+			<NP>
+				<*NN>
+13 Saya/<*PRP> adalah/<*VBT> siswa/<*NN> kelas/<*NN> enam/<*CDP>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*VBT>
+			<NP>
+				<*NN>
+				<NP>
+					<NP>
+						<*NN>
+					<QP>
+						<*CDP>
+14 Siapa/<*WP> yang/<*IN> membeli/<*VBT> buku/<*NN> ini/<*DT> ?<*.>
+<SENTENCE>
+	<S>
+		<SBAR>
+			<WHNP>
+				<*WP>
+			<VP>
+				<*IN>
+				<VP>
+					<*VBT>
+					<NP>
+						<NP>
+							<*NN>
+						<*DT>
+		<*.>
+15 Suku/<*NN> bunga/<*NN> bank/<*NN> swasta/<*JJ> tinggi/<*JJ>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<NP>
+					<*NN>
+				<NP>
+					<*NN>
+			<NP>
+				<NP>
+					<*NN>
+				<ADJP>
+					<*JJ>
+		<VP>
+			<*JJ>
+16 Surat/<*NN> untuk/<*IN> nenek/<*NNP> ditulis/<*VBT> oleh/<*IN> Nina/<*NNP>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*NN>
+			<PP>
+				<*IN>
+				<NP>
+					<*NNP>
+		<VP>
+			<*VBT>
+			<PP>
+				<*IN>
+				<NP>
+					<*NNP>
+17 adik/<*NNP> memakai/<*VBT> baju/<*NN> berwarna/<*VBI> putih/<*JJ> <*.>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<*VBT>
+			<NP>
+				<NP>
+					<*NN>
+				<ADJP>
+					<VP>
+						<*VBI>
+					<*JJ>
+		<*.>
+18 Budi/<*NNP> dan/<*CC> tono/<*NN> adalah/<*VBT> saudara/<*NN> 
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*NNP>
+			<*CC>
+			<NP>
+				<*NNP>
+		<VP>
+			<*VBT>
+			<NP>
+				<*NN>
+19 adik/<*NNP> bermain/<*VBT> bola/<*NN> ketika/<*SC> ibu/<*NNP> memasak/<*VBT> nasi/<*NN>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*NNP>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NN>
+		<*SC>
+		<S>
+			<NP>
+				<*NNP>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NN>
+20 Ketika/<*SC> Ibu/<*NNP> memasak/<*VBT> nasi/<*NN> ,/<*,> Adik/<*NNP> mengerjakan/<*VBT> tugas/<*NN>
+<SENTENCE>
+	<S>
+		<*SC>
+		<S>
+			<NP>
+				<*NNP>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NN>
+		<*,>
+		<S>
+			<NP>
+				<*NNP>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NN>
+21 Ketika/<*SC> Ibu/<*NNP> memasak/<*VBT> nasi/<*NN> ,/<*,> Adik/<*NNP> mengerjakan/<*VBT> tugas/<*NN> ./<*.>
+<SENTENCE>
+	<S>
+		<*SC>
+		<S>
+			<NP>
+				<*NNP>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NN>
+		<*,>
+		<S>
+			<NP>
+				<*NNP>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NN>
+		<*.>
+22 Semakin/<*RB> besar/<*JJ> informasi/<*NN> dapat/<*MD> berakibat/<*VBT> semakin/<*RB> sulit/<*JJ> informasi/<*NN> tersebut/<*DT> diakses/<*VBI>
+<SENTENCE>
+	<S>
+		<NP>
+			<ADVP>
+				<*RB>
+				<*JJ>
+			<NP>
+				<*NN>
+		<VP>
+			<*MD>
+			<VP>
+				<*VBT>
+				<ADVP>
+					<ADJP>
+						<*RB>
+						<*JJ>
+					<NP>
+						<NP>
+							<*NN>
+						<*DT>
+					<VP>
+						<*VBI>
+23 Dia/<*NN> adalah/<*VBT> seorang/<*NN> pemuda/<*NN> yang/<*SC> sangat/<*RB> tampan/<*JJ>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+		<VP>
+			<*VBT>
+			<NP>
+				<NP>
+					<*NN>
+					<*NN>
+				<*SC>
+				<ADJP>
+					<*RB>
+					<*JJ>
+24 Dia/<*NN> adalah/<*VBT> seorang/<*NN> pemuda/<*NN> yang/<*SC> dapat/<*MD> dipercaya/<*VBT>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+		<VP>
+			<*VBT>
+			<NP>
+				<NP>
+					<*NN>
+					<*NN>
+				<*SC>
+				<VP>
+					<*MD>
+					<VP>
+						<*VBT>
+25 Gunung/<*NN> yang/<*SC> terjal/<*JJ> itu/<*DT> sulit/<*JJ> untuk/<*IN> dilewati/<*VBT>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<NP>
+					<*NN>
+				<*SC>
+				<ADJP>
+					<*JJ>
+			<*DT>
+		<VP>
+			<ADJP>
+				<*JJ>
+			<*IN>
+			<VP>
+				<*VBT>
+26 Pendapatnya/<*NN> tidak/<*NEG> dapat/<*MD> diterima/<*VBT>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+		<VP>
+			<*NEG>
+			<VP>
+				<*MD>
+				<VP>
+					<*VBT>
+27 Dia/<*NN> dapat/<*MD> dengan/<*IN> mudah/<*JJ> dikalahkan/<*VBT>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+		<VP>
+			<*MD>
+			<*IN>
+			<VP>
+				<ADJP>
+					<*JJ>
+				<VP>
+					<*VBT>
+28 Aturan/<*NN> pola/<*NN> merupakan/<*VBT> suatu/<*DT> context-free-grammar/<*NN> yang/<*SC> diberikan/<*VBT> dengan/<*IN> format/<*NN> tertentu/<*JJ>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+			<*NN>
+		<VP>
+			<VP>
+				<*VBT>
+			<NP>
+				<*DT>
+				<NP>
+					<NP>
+						<*NN>
+					<*SC>
+					<VP>
+						<VP>
+							<*VBT>
+						<PP>
+							<*IN>
+							<NP>
+								<NP>
+									<*NN>
+								<ADJP>
+									<*JJ>
+29 Dia/<*PRP> merupakan/<*VBT> pemain/<*NN> bola/<*NN> yang/<*SC> cukup/<*JJ> terkenal/<*VBI>
+<SENtENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*VBT>
+			<NP>
+				<NP>
+					<*NN>
+					<*NN>
+				<*SC>
+				<ADJP>
+					<ADJP>
+						<*JJ>
+					<VP>
+						<*VBI>
+30 edria/<*NN> terluka/<*JJ> karena/<*CC> jatuh/<*VBI> dari/<*IN> tangga/<*NN>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*NN>
+			<VP>
+				<*JJ>
+		<*CC>
+		<VP>
+			<VP>
+				<*VBI>
+			<PP>
+				<*IN>
+				<NP>
+					<*NN>
+31 buku/<*NN> yang/<*IN> tebal/<*JJ> itu/<*DT> dimiliku/<*VBT> oleh/<*IN> paman/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<NP>
+					<*NN>
+				<*IN>
+				<ADJP>
+					<*JJ>
+			<*DT>
+		<VP>
+			<VP>
+				<*VBT>
+			<PP>
+				<*IN>
+				<NP>
+					<*NN>
+32 ibu/<*NN> memasak/<*VBT> nasi/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+		<VP>
+			<VP>
+				<*VBT>
+			<NP>
+				<*NN>
+33 adik/<*NNP> memakai/<*VBT> baju/<*NN> berwarna/<*VBI> putih/<*JJ>  
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<VP>
+				<*VBT>
+			<NP>
+				<NP>
+					<*NN>
+				<ADJP>
+					<VP>
+						<*VBI>
+					<*JJ>
+34 Budi/<*NNP> ,/<*,> Ida/<*NNP> ,/<*,> dan/<*CC> Tono/<*NNP> adalah/<*VBT> saudara/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*NNP>
+			<*,>
+			<NP>
+				<*NNP>
+			<*,>
+			<*CC>
+			<NP>
+				<*NNP>
+		<VP>
+			<VP>
+				<*VBT>
+			<NP>
+				<*NN>
+35 Saya/<*PRP> pergi/<*VBI> ,/<*,> Dia/<*PRP> datang/<*VBI>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*PRP>
+			<VP>
+				<*VBI>
+		<*,>
+		<S>
+			<NP>
+				<*PRP>
+			<VP>
+				<*VBI>
+36 Berdasarkan/<*VBT> deskripsi/<*NN> tersebut/<*DT> ,/<*,> sistem/<*NN> diharapkan/<*VBT> dapat/<*MD> mengenali/<*VBT> huruf/<*NN> latin/<*NN>
+<SENTENCE>
+	<S>
+		<VP>
+			<VP>
+				<*VBT>
+			<NP>
+				<NP>
+					<*NN>
+				<*DT>
+		<*,>
+		<S>
+			<NP>
+				<*NN>
+			<VP>
+				<VP>
+					<*VBT>
+				<VP>
+					<*MD>
+					<VP>
+						<VP>
+							<*VBT>
+						<NP>
+							<*NN>
+							<*NN>
+37 berpikir/<*VBI> lah/<*RP> dengan/<*IN> tenang/<*RB> !/<*.>
+<SENTENCE>
+	<S>
+		<VP>
+			<VP>
+				<VP>
+					<*VBI>
+				<*RP>
+			<ADVP>
+				<*IN>
+				<*RB>
+		<*.>
+38 jangan/<*NEG> minum/<*VBT> obat/<*NN> itu/<*DT>
+<SENTENCE>
+	<S>
+		<VP>
+			<VP>
+				<*NEG>
+				<VP>
+					<*VBT>
+			<NP>
+				<NP>
+					<*NN>
+				<*DT>
+39 karena/<*CC> turun/<*VBI> hujan/<*NN> ,/<*,> kami/<*PRP> tidak/<*NEG> pergi/<*VBI> ke/<*IN> lapangan/<*NN>
+<SENTENCE>
+	<S>
+		<*CC>
+		<VP>
+			<VP>
+				<*VBI>
+			<NP>
+				<*NN>
+		<*,>
+		<S>
+			<NP>
+				<*PRP>
+			<VP>
+				<*NEG>
+				<VP>
+					<VP>
+						<*VBI>
+					<PP>
+						<*IN>
+						<NP>
+							<*NN>
+40 Nenek/<*NNP> akan/<*MD> datang/<*VBI> dari/<*IN> Bandung/<*NNP> besok/<*NN> pagi/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<*MD>
+			<VP>
+				<VP>
+					<*VBI>
+				<PP>
+					<*IN>
+					<NP>
+						<*NNP>
+						<NP>
+							<*NN>
+							<*NN>
+41 orang/<*NN> yang/<*SC> sedang/<*RB> membuang/<*VBT> sampah/<*NN> itu/<*DT> adalah/<*VBT> kakak/<*NN> saya/<*PRP>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<NP>
+					<*NN>
+				<*SC>
+				<VP>
+					<*RB>
+					<VP>
+						<VP>
+							<*VBT>
+						<NP>
+							<*NN>
+			<*DT>
+		<VP>
+			<VP>
+				<*VBT>
+			<NP>
+				<NP>
+					<*NN>
+				<NP>
+					<*PRP>
+42 Saya/<*PRP> tidak/<*NEG> akan/<*MD> datang/<*VBI> pada/<*IN> acara/<*NN> ulang/<*NN> tahunmu/<*NN>  
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*NEG>
+			<VP>
+				<*MD>
+				<VP>
+					<*VBI>
+					<PP>
+						<*IN>
+						<NP>
+							<NP>
+								<*NN>
+								<*NN>
+								<*NN>
+43 Bapak/<*NNP> mungkin/<*RB> akan/<*MD> tiba/<*VBI> besok/<*JJ> pagi/<*NN>  
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<ADVP>
+				<*RB>
+			<*MD>
+			<VP>
+				<*VBI>
+				<ADVP>
+					<*JJ>
+					<NP>
+						<*NN>
+44 Ibu/<*NNP> berkata/<*VBI> bahwa/<*SC> aku/<*NN> harus/<*MD> rajin/<*JJ> belajar/<*NN> 
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*NNP>
+			<VP>
+				<*VBI>
+		<*SC>
+		<S>
+			<NP>
+				<*NN>
+			<VP>
+				<*MD>
+				<VP>
+					<*JJ>
+					<VP>
+						<*VBI>
+45 Jangan/<*NEG> membuang/<*VBT> sampah/<*NN> sembarangan/<*JJ>
+<SENTENCE>
+	<S>
+		<VP>
+			<*NEG>
+			<VP>
+				<VP>
+					<*VBT>
+				<NP>
+					<*NN>
+			<ADVP>
+				<*JJ>
+46 kami/<*PRP> tidak/<*NEG> tahu/<*VBT> mengapa/<*WP> dia/<*PRP> datang/<*VBI> terlambat/<*JJ>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*NEG>
+			<VP>
+				<*VBT>
+				<SBAR>
+					<WHNP>
+						<*WP>
+					<NP>
+						<*PRP>
+					<VP>
+						<*VBI>
+						<ADJP>
+							<*JJ>
+47 siapa/<*WP> yang/<*SC> membeli/<*VBT> buku/<*NN> ini/<*DT>
+<SENTENCE>
+	<S>
+		<SBARQ>
+			<WHNP>
+				<*WP>
+			<*SC>
+			<VP>
+				<VP>
+					<*VBT>
+				<NP>
+					<NP>
+						<*NN>
+					<*DT>
+48 siapa/<*WP> yang/<*SC> membeli/<*VBT> buku/<*NN> ini/<*DT> ?/<*.>
+<SENTENCE>
+	<S>
+		<SBARQ>
+			<WHNP>
+				<*WP>
+			<*SC>
+			<VP>
+				<VP>
+					<*VBT>
+				<NP>
+					<NP>
+						<*NN>
+					<*DT>
+		<*.>
+49 Kenapa/<*WP> kamu/<*NN> menangis/<*VBI> ?/<*.>
+<SENTENCE>
+	<S>
+		<SBARQ>
+			<WHNP>
+				<*WP>
+			<NP>
+				<*NN>
+			<VP>
+				<*VBI>
+		<*.>
+50 Kapan/<*WP> dan/<*CC> dimana/<*WP> kegiatan/<*NN> tersebut/<*DT> berlangsung/<*VBI>
+<SENTENCE>
+	<S>
+		<SBARQ>
+			<WHNP>
+				<WHNP>
+					<*WP>
+				<*CC>
+				<WHNP>
+					<*WP>
+			<NP>
+				<NP>
+					<*NN>
+				<*DT>
+			<VP>
+				<*VBI>
+51 Dia/<*PRP> cantik/<*JJ>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*JJ>
+52 Berlari/<*VBI> itu/<*DT> menyenangkan/<VBI>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*VBI>
+			<*DT>
+		<VP>
+			<*VBI>
+53 Apel/<*NN> dan/<*CC> anggur/<*NN> merupakan/<*VBI> buah/<*NN> kesukaan/<*NN> saya/<*PRP>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*NN>
+			<*CC>
+			<NP>
+				<*NN>
+		<VP>
+			<*VBI>
+			<NP>
+				<*NN>
+				<ADJP>
+					<*NN>
+					<NP>
+						<*PRP>
+54 harga/<*NN> rumah/<*NN> itu/<*DT> adalah/<*VBT> seratus/<*CDP> juta/<*CDP> rupiah/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>				
+				<*NN>
+				<NP>
+					<*NN>
+			<*DT>
+		<VP>
+			<*VBT>
+			<NP>
+				<QP>
+					<*CDP>
+					<*CDP>
+				<NP>
+					<*NN>
+55 ada/<*VBI> dua/<*CDP> hal/<*NN> yang/<*SC> harus/<*MD> segera/<*RB> diselesaikan/<*VBT> oleh/<*IN> bangsa/<*NN> Indonesia/<*NNP> ,/<*,> yaitu/<*SC> korupsi/<*NN> dan/<*CC> pendidikan/<*NN>
+<SENTENCE>
+	<S>
+		<VP>
+			<VP>
+				<*VBI>
+				<NP>
+					<QP>
+						<*CDP>
+					<NP>
+						<*NN>
+			<*SC>
+			<VP>
+				<ADVP>
+					<*MD>
+					<*RB>
+				<VP>
+					<VP>
+						<*VBT>
+					<PP>
+						<*IN>
+						<NP>							
+							<*NN>
+							<NP>
+								<*NNP>
+		<*,>
+		<*SC>
+		<NP>
+			<NP>
+				<*NN>
+			<*CC>
+			<NP>
+				<*NN>
+56 kamarnya/<*NNG> berada/<*VBI> di/<*IN> tingkat/<*NN> dua/<*CDP>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNG>
+		<VP>
+			<*VBI>
+			<PP>
+				<*IN>
+				<NP>
+					<NP>
+						<*NN>
+					<QP>
+						<*CDP>
+57 dia/<*PRP> menjadi/<*VBT> juara/<*NN> kedua/<*CDO> dalam/<*IN> perlombaan/<*NN> lari/<*NN> se-kecamatan/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<VP>
+				<*VBT>
+			<NP>				
+				<*NN>				
+				<*CDO>
+			<PP>
+				<*IN>
+				<NP>					
+						<*NN>
+						<*NN>					
+						<*NN>
+58 alisnya/<*NNG> tebal/<*JJ> sekali/<*RB>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNG>
+		<VP>
+			<VP>
+				<*JJ>
+			<ADVP>
+				<*RB>
+59 jangan/<*NEG> pernah/<*RB> melakukan/<*VBT> tindakan/<*NN> asusila/<*NN>
+<SENTENCE>
+	<S>
+		<VP>
+			<*NEG>
+			<VP>
+				<ADVP>
+					<*RB>
+				<VP>
+					<VP>
+						<*VBT>
+					<NP>
+						<*NN>
+						<*NN>
+60 Dia/<*PRP> baik-baik/<*JJ> saja/<*RB>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<VP>
+				<*JJ>
+			<ADVP>
+				<*RB>
+61 kesehatannya/<*NNG> sedang/<*RB> menurun/<*VBI>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNG>
+		<VP>
+			<ADVP>
+				<*RB>
+			<VP>
+				<*VBI>
+62 PBA/<*NN> merupakan/<*VBT> salah/<*JJ> satu/<*CDP> bidang/<*NN> pada/<*IN> sains/<*NN> komputer/<*NN> yang/<*SC> membahas/<*VBT> interaksi/<*NN> antara/<*NN> komputer/<*NN> dan/<*CC> bahasa/<*NN> manusia/<*NN>
+salah satu merupakan kata khusus
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+		<VP>
+			<*VBT>
+			<NP>
+				<NP>
+					<ADJP>
+						<*JJ>
+						<*CDP>
+					<NP>
+						<*NN>
+						<PP>
+							<*IN>
+							<NP>
+								<*NN>
+								<*NN>
+				<*SC>
+				<VP>
+					<*VBT>
+					<NP>
+						<NP>
+							<*NN>
+						<NP>
+							<*NN>
+							<NP>
+								<NP>
+									<*NN>
+								<*CC>
+								<NP>
+									<*NN>
+									<*NN>
+63 Pada/<*IN> awalnya/<*NN> ,/<*,> pemrosesan/<*NN> bahasa/<*NN> alami/<*NN> sulit/<*JJ> dilakukan/<*VBI> dengan/<*IN> menggunakan/<*VBT> komputer/<*NN>
+<SENTENCE>
+	<S>
+		<PP>
+			<*IN>
+			<NP>
+				<*NN>
+		<*,>
+		<S>
+			<NP>
+				<*NN>
+				<*NN>
+				<*NN>
+			<VP>
+				<ADJP>
+					<*JJ>
+				<VP>
+					<*VBI>
+					<PP>
+						<*IN>
+						<VP>
+							<*VBT>
+							<*NN>
+64 Untuk/<*IN> membuat/<*VBT> parser/<*NN> dibutuhkan/<*VBT> dua/<CDP> hal/<*NN> dasar/<*NN> ,/<*,> yaitu/<*SC> tata/<*NN> bahasa/<*NN> dan/<*CC> algoritma/<*NN> parsing/<*FW>
+<SENTENCE>
+	<S>
+		<PP>
+			<*IN>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NN>
+		<VP>
+			<*VBT>
+			<NP>
+				<NP>
+					<QP>
+						<*CDP>
+					<NP>
+						<*NN>
+						<*NN>
+				<*,>
+				<*SC>
+				<NP>
+					<NP>
+						<*NN>
+						<*NN>
+					<*CC>
+					<NP>
+						<*NN>
+						<*NN>
+65 Sebelum/<*SC> Parser/<*NN> melakukan/<*VBT> pembuatan/<*VBT> parse/<*FW> tree/<*FW> dari/<*IN> suatu/<*DT> kalimat/<*NN> ,/<*,> perlu/<*MD> dilakukan/<*VBI> proses/<*NN> awal/<*JJ> terhadap/<*IN> kalimat/<*NN> tersebut/<*DT>
+<SENTENCE>
+	<S>
+		<*SC>
+		<S>
+			<NP>
+				<*NN>
+			<VP>
+				<VP>
+					<*VBT>
+				<NP>					
+					<*VBT>
+					<NP>
+						<*FW>					
+						<*FW>
+				<PP>
+					<*IN>
+					<NP>
+						<*DT>
+						<NP>
+							<*NN>
+		<*,>
+		<S>
+			<VP>
+				<*MD>
+				<VP>
+					<*VBI>
+				<NP>
+					<NP>
+						<NP>
+							<*NN>
+						<ADJP>
+							<*JJ>
+					<PP>
+						<*IN>
+						<NP>
+							<NP>
+								<*NN>
+							<*DT>
+66 Untuk/<*IN> tata/<*NN> bahasa/<*NN> yang/<*SC> berbeda/<*VBI> ,/<*,> efektivitas/<*NN> algoritma/<*NN> parsing/<*FW> juga/<*RB> berbeda/<*VBI>
+<SENTENCE>
+	<S>
+		<PP>
+			<*IN>
+			<NP>
+				<NP>
+					<*NN>
+					<*NN>
+				<*SC>
+				<VP>
+					<*VBI>
+		<*,>
+		<S>
+			<NP>
+				<NP>
+					<*NN>					
+					<*NN>				
+					<*NN>
+			<VP>
+				<ADVP>
+					<*RB>
+				<VP>
+					<*VBI>
+67 Implementasi/<*NN> kelas/<*NN> PCFG/<*NN> dibuat/<*VBT> terpisah/<*VBI> sehingga/<*SC> dapat/<*MD> digunakan/<*VBT> baik/<*JJ> oleh/<*IN> algoritma/<*NN> CYK/<*NN> dan/<*CC> algoritma/<*NN> Earley/<*NN>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*NN>
+				<*NN>
+				<*NN>
+			<VP>
+				<VP>
+					<*VBT>
+				<VP>
+					<*VBI>
+		<*SC>
+		<S>
+			<VP>
+				<*MD>
+				<VP>
+					<VP>
+						<*VBT>
+					<ADVP>
+						<*JJ>
+					<PP>
+						<*IN>
+							<NP>
+								<*NN>
+								<*NN>
+							<*CC>
+							<NP>
+								<*NN>
+								<*NN>
+68 Dia/<*PRP> adalah/<*VBT> ilmuwan/<*NN> wanita/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*VBT>
+			<NP>
+				<*NN>
+				<*NN>
+69 Dia/<*PRP> mewakili/<*VBT> wanita/<*NN> Indonesia/<*NNP>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*VBT>
+			<NP>
+				<*NN>				
+				<*NNP>
+70 Kita/<*PRP> memasukkan/<*VBT> prestasinya/<*NNG> ke/<*IN> dalam/<*IN> buku/<*NN> catatan/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*VBT>
+			<NP>
+				<*NNG>
+			<PP>
+				<*IN>
+				<*IN>
+				<NP>
+					<NP>
+						<*NN>
+					<NP>
+						<*NN>
+71 Saya/<*PRP> berasal/<*VBI> dari/<*IN> Palembang/<*NNP>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*VBI>
+			<PP>
+				<*IN>
+				<NP>
+					<*NNP>
+72 Saya/<*PRP> sangat/<*RB> lapar/<*ADJP>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<ADJP>
+				<*RB>
+				<*JJ>
+73 Saya/<*PRP> masuk/<*VBI> ketika/<*SC> mereka/<*PRP> diam/<*VBI>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*PRP>
+			<VP>
+				<*VBI>
+		<*SC>
+		<S>
+			<NP>
+				<*PRP>
+			<VP>
+				<*VBI>
+74 wah/<*UH> ,/<*,> ternyata/<*RB> dia/<*PRP> anak/<*NN> yang/<*SC> sangat/<*RB> pintar/<*JJ>
+<SENTENCE>
+	<S>
+		<*UH>
+		<*,>
+		<S>
+			<ADVP>
+				<*RB>
+			<NP>
+				<NP>
+					<*NN>
+				<*SC>
+				<ADJP>
+					<*RB>
+					<*JJ>
+75 Walaupun/<*CC> dia/<*PRP> pintar/<*JJ> ,/<*,> tetapi/<*CC> dia/<*PRP> tidak/<*NEG> sombong/<*JJ>
+<SENTENCE>
+	<S>
+		<*CC>
+		<S>
+			<NP>
+				<*PRP>
+			<VP>
+				<*JJ>
+		<*,>
+		<*CC>
+		<S>
+			<NP>
+				<*PRP>
+			<VP>
+				<*NEG>
+				<ADJP>
+					<*JJ>
+76 jika/<*SC> dia/<*PRP> benar/<*JJ> ,/<*,> maka/<*SC> Andi/<*NNP> akan/<*MD> membantunya/<*VBI>
+<SENTENCE>
+	<S>
+		<*SC>
+		<S>
+			<NP>
+				<*PRP>
+			<ADJP>
+				<*JJ>
+		<*,>
+		<*SC>
+		<S>
+			<NP>
+				<*NNP>
+			<VP>
+				<*MD>
+				<VP>
+					<*VBI>
+77 harga/<*NN> tas/<*NN> itu/<*DT> sembilan/<*CDP> ratus/<*CDP> ribu/<*CDP> rupiah/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*NN>
+				<*NN>
+			<*DT>
+		<NP>
+			<QP>
+				<*CDP>
+				<*CDP>
+				<*CDP>
+			<*NN>
+78 dia/<*PRP> kembali/<*VBI> untuk/<*IN> mengambil/<*VBT> bukunya/<*NNG>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*VBI>
+			<PP>
+				<*IN>
+				<VP>
+					<VP>
+						<*VBT>
+					<NP>
+						<*NNG>
+79 rumahnya/<*NNG> terbakar/<*VBI>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNG>
+		<VP>
+			<*VBI>
+80 hidup/<*NN> itu/<*DT> penuh/<*JJ> dengan/<*IN> perjuangan/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*NN>
+			<*DT>
+		<VP>
+			<VP>
+				<*JJ>
+			<PP>
+				<*IN>
+				<NP>
+					<*NN>
+81 untuk/<*IN> dapat/<*MD> hidup/<*VBI> bahagia/<*JJ> ,/<*,> anda/<*PRP> harus/<*MD> belajar/<*VBT> menghargai/<*VBT> sesama/<*NN>
+<SENTENCE>
+	<S>
+		<PP>
+			<*IN>
+			<VP>
+				<ADVP>
+					<*MD>
+				<VP>
+					<*VBI>
+					<ADJP>
+						<*JJ>
+		<*,>
+		<S>
+			<NP>
+				<*PRP>
+			<VP>
+				<*MD>
+				<VP>
+					<*VBT>
+				<NP>
+					<NP>
+						<*VBT>
+					<NP>
+						<*NN>
+82 aku/<*PRP> suka/<*VBT> kamu/<*PRP>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*VBT>
+			<NP>
+				<*PRP>
+83 Ivan/<*NNP> menemukan/<*VBT> sampah/<*NN> di/<*IN> laut/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<*VBT>
+			<NP>
+				<*NN>
+			<PP>
+				<*IN>
+				<NP>
+					<*NN>
+84 Cabot/<*NN> menari/<*VBI> di/<*IN> atas/<*IN> bukit/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+		<VP>
+			<*VBI>
+			<PP>
+				<*IN>
+				<*IN>
+				<NP>
+					<*NN>
+85 Saya/<*PRP> sedang/<*RB> mencari/<*VBT> kalimat/<*NN> majemuk/<*NN> untuk/<*IN> pengerjaan/<*NN> tugas/<*NN> akhir/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*RB>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NN>
+					<*NN>
+				<PP>
+					<*IN>
+					<NP>
+						<*NN>
+						<*NN>
+						<*NN>
+86 Sebagai/<*SC> pemimpin/<*NN> suatu/<*DT> organisasi/<*NN> ,/<*,> seharusnya/<*JJ> dia/<*PRP> dapat/<*MD> bertindak/<*VBI> dengan/<*IN> tenang/<*JJ>
+<SENTENCE>
+	<S>
+		<*SC>
+		<NP>
+			<NP>
+				<*NN>
+			<NP>
+				<*DT>
+				<NP>
+					<*NN>
+		<*,>
+		<S>
+			<ADJP>
+				<*JJ>
+			<NP>
+				<*PRP>
+			<VP>
+				<*MD>
+				<VP>
+					<*VBI>
+					<PP>
+						<*IN>
+						<ADJP>
+							<*JJ>
+87 meja/<*NN> yang/<*SC> terbuat/<*VBI> dari/<*IN> kayu/<*NN> ini /<*DT> dibeli/<*VBI> di/<*IN> pasar/<*NN> dekat/<*JJ> rumahku/<*NNG>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<NP>
+					<*NN>
+				<*SC>
+				<VP>
+					<*VBI>
+					<PP>
+						<*IN>
+						<NP>
+							<*NN>
+			<*DT>
+		<VP>
+			<VP>
+				<*VBI>
+			<PP>
+				<*IN>
+				<NP>
+					<*NN>
+					<ADJP>
+						<*JJ>
+						<NP>
+							<*NNG>
+88 Pada/<*IN> penelitian/<*NN> ini/<*DT> akan/<*MD> digunakan/<*VBT> PCFG/<*NN> sebagai/<*SC> representasi/<*NN> pohon/<*NN> dari/<*IN> pola/<*NN> tata/<*NN> Bahasa/<*NNP> Indonesia/<*NNP>
+<SENTENCE>
+	<S>
+		<PP>
+			<*IN>
+			<NP>
+				<NP>
+					<*NN>
+				<*DT>
+		<VP>
+			<*MD>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NN>
+		<*SC>
+		<NP>
+			<NP>
+				<*NN>
+				<*NN>
+			<PP>
+				<*IN>
+				<NP>
+					<*NN>
+					<*NN>
+					<*NNP>
+					<*NNP>
+89 Beberapa/<*CDI> orang/<*NN> dari/<*IN> teman-temanku/<*NNG> berani/<*JJ> mengambil/<*VBT> tanggung/<*NN> jawab/<*NN> itu/<*DT>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<NP>
+					<*CDI>
+					<*NN>
+			<PP>
+				<*IN>
+				<NP>
+					<*NNG>
+		<ADJP>
+			<*JJ>
+		<VP>
+			<*VBT>
+			<NP>
+				<NP>
+					<*NN>
+					<*NN>
+				<*DT>
+90 Banyak/<*CDI> diantara/<*NN> kita/<*NN> sering/<*JJ> melupakan/<*VBT> nilai/<*NN> yang/<*SC> terkandung/<*VBI> dalam/<*IN> acara/<*NN> yang/<*SC> diadakan/<*VBT> himpunan/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*CDI>
+				<NP>
+					<*NN>
+					<*NN>
+		<VP>
+			<ADVP>
+				<*JJ>
+			<VP>
+				<*VBT>
+				<NP>
+					<NP>
+						<*NN>
+					<*SC>
+					<VP>
+						<*VBI>
+						<PP>
+							<*IN>
+							<NP>
+								<NP>
+									<*NN>
+								<*SC>
+								<VP>
+									<*VBT>
+									<NP>
+										<*NN>
+91 Kita/<*PRP> bertiga/<*CDC> tinggal/<*VBI> di/<*IN> tempat/<*NN> yang/<*SC> sama/<*JJ>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*PRP>
+			<ADJP>
+				<*CDC>
+		<VP>
+			<*VBI>
+			<PP>
+				<*IN>
+				<NP>
+					<NP>
+						<*NN>
+					<*SC>
+					<ADJP>
+						<*JJ>
+92 Paman/<*NNP> berkata/<*VBT> ,/<*,> "/<*"> Jangan/<*NEG> lupa/<*VBT> shalat/<*NN> ./<*.> "/<*">
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*NNP>
+			<VP>
+				<*VBT>
+		<*,>
+		<S>
+			<*">
+			<S>
+				<S>
+					<VP>
+						<*NEG>
+						<VP>
+							<*VBT>
+							<NP>
+								<*NN>
+				<*.>
+			<*">
+93 "/<*"> bergosip/<*VBI> itu/<*DT> tidak/<*NEG> baik/<*JJ> "/<*"> ,/<*,> kata/<*VBT> Ayah/<*NNP>
+<SENTENCE>
+	<S>
+		<S>
+			<*">
+			<S>
+				<NP>
+					<NP>
+						<*VBI>
+					<*DT>
+				<ADJP>
+					<*NEG>
+					<*JJ>
+			<*">
+		<*,>
+		<S>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NNP>
+94 Radit/<*NNP> berkata/<*VBI> bahwa/<*SC> Tugas/<*NN> Akhirnya/<*NNG> mengenai/<*VBT> aplikasi/<*NN> web/<*FW>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*NNP>
+			<VP>
+				<*VBI>
+		<*SC>
+		<S>
+			<NP>
+				<NP>
+					<*NN>
+				<NP>
+					<*NNG>
+			<VP>
+				<*VBT>
+				<NP>
+					<NP>
+						<*NN>
+					<NP>
+						<*FW>
+95 Afi/<*NNP> bertanya/<*VBI> kepada/<*IN> Radit/<*NNP> kapan/<*WP> dia/<*PRP> akan/<*IN> diwisuda/<*VBI>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*NNP>
+			<VP>
+				<*VBI>
+				<PP>
+					<*IN>
+					<NP>
+						<*NNP>
+		<SBARQ>
+			<WHNP>
+				<*WP>
+			<NP>
+				<*PRP>
+			<PP>
+				<*IN>
+				<VP>
+					<*VBI>
+96 "/<*"> lepaskan/<*VBT> peganganmu/<*NNG> "/<*"> kata/<*VBT> ironman/<*NN> kepada/<*IN> batman/<*NN>
+<SENTENCE>
+	<S>
+		<S>
+			<*">
+			<S>
+				<VP>
+					<*VBT>
+					<NP>
+						<*NNG>
+			<*">
+		<VP>
+			<*VBT>
+			<NP>
+				<*NN>
+			<PP>
+				<*IN>
+				<NP>
+					<*NN>
+97 jika/<*SC> usahamu/<*NNG> gagal/<*JJ> jangan/<*NEG> lah/<*RP> menyerah/<*VBI>
+<SENTENCE>
+	<S>
+		<*SC>
+		<NP>
+			<NP>
+				<*NNG>
+			<ADJP>
+				<*JJ>
+		<VP>
+			<ADVP>
+				<*NEG>
+				<*RP>
+			<VP>
+				<*VBI>
+98 tetap/<*JJ> lah/<*RP> berjuang/<*VBI> walaupun/<*SC> jalan/<*NN> yang/<*SC> kau/<*PRP> lewati/<*VBI> sulit/<*JJ>
+<SENTENCE>
+	<S>
+		<S>
+			<VP>
+				<ADVP>
+					<*JJ>
+					<*RP>
+				<VP>
+					<*VBI>
+		<*SC>
+		<S>
+			<NP>
+				<NP>
+					<*NN>
+				<*SC>
+				<VP>
+					<NP>
+						<*PRP>
+					<VP>
+						<*VBI>
+			<ADJP>
+				<*JJ>
+99 apa/<*WP> pun/<*RP> dapat/<*MD> aku/<*PRP> makan/<*VBI>
+<SENTENCE>
+	<S>
+		<NP>
+			<*WP>
+			<*RP>
+		<VP>
+			<*MD>
+			<NP>
+				<*PRP>
+			<VP>
+				<*VBI>
+100 jangan/<*NEG> takut/<*JJ> pada/<*IN> siapa/<*WP> pun/<*RP>
+<SENTENCE>
+	<S>
+		<VP>
+			<VP>
+				<*NEG>
+				<VP>
+					<*JJ>
+			<PP>
+				<*IN>
+				<NP>
+					<*WP>
+					<*RP>
+101 tertawa/<*VBI> lah/<*RP>
+<SENTENCE>
+	<S>
+		<VP>
+			<VP>
+				<*VBI>
+			<*RP>
+102 Seorang/<*NN> PNS/<*NN> harus/<*MD> memahami/<*VBT> hak/<*NN> dan/<*CC> kewajiban/<*NN> sebagai/<*SC> aparatur/<*NN> negara/<*NN>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*NN>
+				<*NN>
+			<VP>
+				<*MD>
+				<VP>
+					<*VBT>
+					<NP>
+						<*NN>
+						<NP>
+							<*CC>
+							<*NN>
+		<*SC>		
+		<NP>
+			<*NN>
+			<*NN>
+103 kami/<*PRP> semua/<*NN> dimarahi/<*VBT> guru/<*NN> karena/<*CC> meribut/<*VBT>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*PRP>
+				<*NN>
+			<VP>
+				<*VBT>
+				<*NN>
+		<*CC>
+		<S>
+			<VP>
+				<*VBT>
+104 Mereka/<*PRP> berdua/<*CDC> minta/<*VBT> izin/<*NN> karena/<*CC> mengikuti/<*VBT> perlombaan/<*NN>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*PRP>
+				<*CDC>
+			<VP>
+				<*VBT>
+				<*NN>
+		<*CC>
+		<S>
+			<VP>
+				<*VBT>
+				<*NN>
+105 Ayah/<*NNP> melukis/<*VBT> pemandangan/<*NN> di/<*IN> atas/<*IN> kanvas/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<VP>
+				<VP>
+					<*VBT>
+					<*NN>
+			<PP>
+				<PP>
+					<*IN>
+					<*IN>
+				<*NN>
+106 Bu/<*NNP> Minah/<*NNP> berdagang/<*VBI> sayur/<*NN> di/<*IN> pasar/<*NN> pagi/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+			<*NNP>
+		<VP>
+			<VP>
+				<*VBI>
+				<*NN>
+			<PP>
+				<*IN>
+				<NP>
+					<*NN>
+					<*NN>
+107 Budi/<*NN> menjadi/<*VBI> siswa/<*NN> teladan/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+		<VP>
+			<*VBI>
+			<NP>
+				<*NN>
+				<*NN>
+108 Ibu/<*NNP> mendendangkan/<*VBI> adik/<*NN> sebuah/<*NN> lagu/<*NN> baru/<*JJ>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<VP>
+				<*VBI>
+				<*NN>
+			<NP>
+				<*NN>
+				<NP>
+					<*NN>
+				<ADJP>
+					<*JJ>
+109 Rina/<*NNP> membelikan/<*VBI> kakek/<*NN> sepasang/<*NN> sepatu/<*NN> baru/<*JJ>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<VP>
+				<*VBI>
+				<*NN>
+			<NP>
+				<*NN>
+				<NP>
+					<*NN>
+				<ADJP>
+					<*JJ>
+110 Setiap/<*DT> orang/<*NN> menginginkan/<*VBT> kebahagiaan/<*NN> dunia/<*NN> akhirat/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*DT>
+			<*NN>
+		<VP>
+			<*VBT>
+			<NP>
+				<*NN>
+				<*NN>
+				<*NN>
+111 Budi/<*NNP> membeli/<*VBT> sepatu/<*NN> baru/<*JJ>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<*VBT>
+			<NP>
+				<*NN>
+			<ADJP>
+				<*JJ>
+112 Mereka/<*PRP> ternyata/<*RB> menyukai/<*VBT> makanan/<*NN> itu/<*DT>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*RB>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NN>
+					<*DT>
+113 Kami/<*PRP> akan/<*MD> menyanyikan/<*VBT> lagu/<*NN> kebangsaan/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*MD>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NN>
+					<*NN>
+114 Kemampuan/<*NN> siswa/<*NN> saya/<*PRP> dalam/<*IN> mengarang/<*VBT> berada/<*VBI> pada/<*IN> kategori/<*NN> hampir/<*JJ> baik/<*JJ>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*NN>
+				<NP>
+					<*NN>
+					<*PRP>
+			<PP>
+				<*IN>
+				<*VBT>
+		<VP>
+			<*VBI>
+			<PP>
+				<*IN>
+				<NP>
+					<*NN>
+					<ADJP>
+						<*JJ>
+						<*JJ>
+115 Ratna/<*NNP> bermain/<*VBI> piano/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<*VBI>
+			<*NN>
+116 Kakiku/<*NNG> tertusuk/<*VBI> duri/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNG>
+		<VP>
+			<*VBI>
+			<*NN>
+117 Adikku/<*NNG> yang/<*SC> kedua/<*CDO> belajar/<*VBI> matematika/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*NNG>
+			<*SC>
+			<*CDO>
+		<VP>
+			<*VBI>
+			<*NN>
+118 Ia/<*PRP> bekerja/<*VBI> keras/<*JJ> sepanjang/<*RB> hari/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<VP>
+				<*VBI>
+			<ADVP>	
+				<*JJ>
+			<PP>
+				<*RB>
+				<*NN>
+119 Orang/<*NNP> itu/<*DT> bekerja/<*VBI> cepat/<*JJ> setiap/<*RB> hari/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+			<*DT>
+		<VP>
+			<VP>
+				<*VBI>
+			<ADVP>
+				<*JJ>
+			<PP>
+				<*RB>
+				<*NN>
+120 Pada/<*IN> bulan/<*NN> pertama/<*CDO> setelah/<*SC> menikah/<*VBI> ,/<*,> mereka/<*PRP> sudah/<*MD> mulai/<*RB> bertengkar/<*VBI>
+<SENTENCE>
+	<S>
+		<PP>
+			<*IN>
+			<NP>
+				<NP>
+					<*NN>
+					<*CDO>
+				<VP>
+					<*SC>
+					<*VBI>
+		<*,>
+		<S>
+			<NP>
+				<*PRP>
+			<VP>
+				<ADVP>
+					<*MD>
+					<*RB>
+				<VP>
+					<*VBI>
+121 Sebagian/<*NN> besar/<*JJ> rumah/<*NN> rusak/<*JJ> karena/<*SC> gempa/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<ADJP>
+				<*NN>
+				<*JJ>
+			<*NN>
+		<VP>
+			<*JJ>
+			<ADVP>
+				<*SC>
+				<*NN>
+122 Aie/<*NN> Pacah/<*NN> ,/<*,> tempat/<*NN> tinggal/<*NN> saya/<*PRP> ,/<*,> akan/<*MD> menjadi/<*VBI> pusat/<*NN> pemerintahan/<*NN> kota/<*NN> Padang/<*NNP>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*NN>
+				<*NN>
+			<*,>
+			<NP>
+				<NP>
+					<NP>
+						<*NN>
+						<*NN>
+					<*PRP>
+			<*,>
+		<VP>
+			<*MD>
+			<VP>
+				<*VBI>
+				<NP>
+					<*NN>
+					<NP>
+						<*NN>
+						<NP>
+							<*NN>
+							<*NNP>
+123 Skripsi/<*NN> yang/<*SC> berkualitas/<*VBI> ,/<*,> terpuji/<*JJ> 	<S>dan/<*CC> terbaik/<*JJ> ,/<*,> diterbitkan/<*VBT> oleh/<*IN> Universitas/<*NNP>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*NN>
+			<*SC>
+			<ADJP>
+				<ADJP>
+					<*VBI>
+				<*,>
+				<ADJP>
+					<*JJ>
+				<*CC>
+				<ADJP>
+					<*JJ>
+				<*,>
+		<VP>
+			<*VBT>
+			<PP>
+				<*IN>
+				<*NNP>
+124 Anton/<*NN> ,/<*,> mahasiswa/<*NN> teladan/<*NN> itu/<*DT> ,/<*,> kini/<*RB> menjadi/<*VBI> dosen/<*NN> di/<*IN> Universitasnya/<*NNG>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*NN>
+			<NP>
+				<*,>
+				<NP>
+					<NP>
+						<*NN>
+						<*NN>
+					<*DT>
+				<*,>
+		<VP>
+			<ADVP>
+				<*RB>
+			<VP>
+				<*VBI>
+				<NP>
+					<*NN>
+					<PP>
+						<*IN>
+						<NP>
+							<*NNG>
+125 Mahasiswa/<*NN> yang/<*SC> indeks/<*NN> prestasinya/<*NNG> paling/<*JJ> tinggi/<*JJ> mendapat/<*VBT> beasiswa/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*NN>
+			<*SC>
+			<NP>
+				<NP>
+					<*NN>
+					<*NNG>
+				<ADJP>
+					<*JJ>
+					<*JJ>
+		<VP>
+			<*VBT>
+			<*NN>
+126 Dia/<*PRP> menginginkan/<*VBT> pria/<*NN> yang/<*SC> tegap/<*JJ> kekar/<*JJ> untuk/<*IN> menjadi/<*VBI> suaminya/<*NNG>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*VBT>
+			<NP>
+				<NP>
+					<*NN>
+				<*SC>
+				<ADJP>
+					<*JJ>
+					<*JJ>
+			<PP>
+				<*IN>
+				<VP>
+					<*VBI>
+					<NP>
+						<*NNG>
+127 Gerakan-gerakan/<*NN> ketika/<*SC> berenang/<*VBI> bisa/<*MD> membantu/<*VBT> melatih/<*VBT> kaki/<*NN> dan/<*NN> tangan/<*NN> ,/<*,> jantung/<*NN> ,/<*,> serta/<*CC> sistem/<*NN> pernapasan/<*NN> bayi/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*NN>
+			<VP>
+				<*SC>
+				<*VBI>
+		<VP>
+			<*MD>
+			<VP>
+				<*VBT>
+				<VP>
+					<*VBT>
+					<NP>
+						<NP>
+							<*NN>
+							<*NN>
+							<*NN>
+						<*,>
+						<NP>
+							<*NN>
+						<*,>
+						<*CC>
+						<NP>
+							<*NN>
+							<*NN>
+							<*NN>
+128 Masukan/<*NN> pengguna/<*NN> berupa/<*VBI> sikap/<*NN> dan/<*CC> perilaku/<*NN> pengguna/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+			<*NN>
+		<VP>
+			<*VBI>
+			<NP>
+				<*NN>
+				<*CC>
+				<NP>
+					<*NN>
+					<*NN>
+129 Ramadhan/<*NN> adalah/<*VBT> bulan/<*NN> yang/<*SC> dinanti/<*VBT> oleh/<*IN> segenap/<*CDC> umat/<*NN> Muslim/<*NNP>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+		<VP>
+			<*VBT>
+			<NP>
+				<NP>
+					<*NN>
+				<*SC>
+				<VP>
+					<*VBT>
+					<PP>
+						<*IN>
+						<NP>
+							<*CDC>
+						<NP>	
+							<*NN>
+							<*NNP>
+130 Kita/<*PRP> pergi/<*VBI> atau/<*CC> menunggu/<*VBT> ayah/<*NN>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*PRP>
+			<VP>
+				<*VBI>
+		<*CC>
+		<VP>
+			<*VBT>
+			<*NN>
+131 Jutaaan/<*CDC> orang/<*NN> belajar/<*VBT> Bahasa/<*NNP> Inggris/<*NNP> tetapi/<*CC> hanya/<*RB> beberapa/<*CDC> berhasil/<*VBI>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*CDC>
+				<*NN>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NNP>
+					<*NNP>
+		<*CC>
+		<VP>
+			<ADVP>
+				<*RB>
+				<*CDC>
+			<*VBI>
+132 Bapak/<*NNP> minum/<*VBT> teh/<*NN> atau/<*CC> Bapak/<*NNP> makan/<*VBT> nasi/<*NN>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*NNP>
+			<VP>
+				<*VBT>
+				<*NN>
+		<*CC>
+		<S>
+			<NP>
+				<*NNP>
+			<VP>
+				<*VBT>
+				<*NN>
+133 Dia/<*PRP> sangat/<*RB> rajin/<*JJ> ,/<*,> tetapi/<*CC> adiknya/<*NNG> sangat/<*RB> malas/<*JJ>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*PRP>
+			<VP>
+				<*RB>
+				<*JJ>
+		<*,>		
+		<*CC>
+		<S>
+			<NP>
+				<*NNG>
+			<VP>
+				<*RB>
+				<*JJ>
+134 Setelah/<*CC> pindah/<*VBI> ,/<*,> dia/<*PRP> aman/<*JJ> tentram/<*JJ> di/<*IN> rumah/<*NN> barunya/<*NNG>
+<SENTENCE>
+	<S>
+		<*CC>
+		<VP>
+			<*VBI>
+		<*,>
+		<S>
+			<NP>
+				<*PRP>
+			<VP>
+				<ADJP>
+					<*JJ>
+					<*JJ>
+				<PP>
+					<*IN>
+					<NP>
+						<*NN>
+						<*NNG>
+135 Orang/<*NN> itu/<*DT> pindah/<*VBI> ke/<*IN> Jakarta/<*NNP> setelah/<*SC> suaminya/<*NNG> bekerja/<*VBI> di/<*IN> Bank/<*NNP> Indonesia/<*NNP>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*NN>
+				<*DT>
+			<VP>
+				<*VBI>
+				<PP>
+					<*IN>
+					<*NNP>
+		<*SC>
+		<S>
+			<NP>
+				<*NNG>
+			<VP>
+				<*VBI>
+				<PP>
+					<*IN>
+					<NP>
+						<*NNP>
+						<*NNP>
+136 Jika/<*SC> para/<*DT> pemimpin/<*NN> Indonesia/<*NNP> jujur/<*JJ> ,/<*,> rakyat/<*NN> akan/<*MD> sejahtera/<*JJ>
+<SENTENCE>
+	<S>
+		<*SC>
+		<S>
+			<NP>
+				<*DT>
+				<NP>
+					<*NN>
+					<*NNP>
+			<ADJP>
+				<*JJ>
+		<*,>
+		<S>
+			<NP>
+				<*NN>
+			<VP>
+				<*MD>
+				<*JJ>
+137 Dia/<*PRP> sering/<*JJ> berbohong/<*VBI> sehingga/<*SC> temannya/<*NNG> tidak/<*NEG> percaya/<*JJ> kepadanya/<*NN>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*PRP>
+			<VP>
+				<*JJ>
+				<*VBI>
+		<*SC>
+		<S>
+			<NP>
+				<*NNG>
+			<VP>
+				<*NEG>
+				<VP>
+					<*JJ>
+					<*NN>
+138 Uang/<*NN> itu/<*DT> diberikan/<*VBT> kepada/<*IN> mereka/<*PRP> secara/<*IN> cuma-cuma/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+			<*DT>
+		<VP>
+			<*VBT>
+			<PP>
+				<*IN>
+				<NP>
+					<*PRP>
+					<PP>
+						<*IN>
+						<*NN>
+139 Waktu/<*NN> sudah/<*MD> berlalu/<*VBT> cukup/<*JJ> lama/<*JJ> tetapi/<*CC> Andi/<*NNP> masih/<*RB> di/<*IN> sini/<*PRL>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+		<VP>
+			<*MD>
+			<VP>
+				<*VBT>
+			<ADVP>
+				<*JJ>
+				<*JJ>
+	<*CC>
+		<NP>
+			<*NNP>
+		<VP>
+			<*MD>
+			<PP>
+				<*IN>
+				<*PRL>
+140 Sepak/<*NN> bola/<*NN> merupakan/<*VBT> olah/<*NN> raga/<*NN> paling/<*RB> favorit/<*JJ>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+			<*NN>
+		<VP>
+			<*VBT>
+			<NP>
+				<*NN>
+				<*NN>
+			<ADJP>
+				<*RB>
+				<*JJ>
+141 Ibu/<*NNP> pergi/<*VBI> ke/<*IN> pasar/<*NN> membeli/<*VBT> sayuran/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<*VBI>
+			<PP>
+				<*IN>
+				<*NN>
+			<VP>
+				<*VBT>
+				<*NN>
+142 Dalam/<*IN> perjalanan/<*NN> itu/<*DT> ,/<*,> dia/<*PRP> mendapatkan/<*VBT> pelajaran/<*NN> berharga/<*NN>
+<SENTENCE>
+	<S>
+		<PP>
+			<*IN>
+			<NP>
+				<*NN>
+				<*DT>
+		<*,>
+		<S>
+			<*PRP>
+			<VP>
+				<VP>
+					<*VBT>
+				<NP>
+					<*NN>
+					<*NN>
+143 Tidak/<*NEG> ada/<*VBI> seorang/<*NN> pun/<*RP> yang/<*SC> berani/<*JJ> mengganggu/<*VBT> dirinya/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NEG>
+			<VP>
+				<VP>
+					<*VBI>
+				<NP>
+					<*NN>
+					<*RP>
+		<ADJP>
+			<*SC>
+			<*JJ>
+		<VP>
+			<*VBT>
+			<NP>
+				<*NN>
+144 Adik/<*NNP> bermain/<*JJ> bersama/<*IN> teman/<*NN> di/<*IN> sekolah/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<*JJ>
+			<PP>
+				<*IN>
+				<*NN>
+			<PP>
+				<*IN>
+				<*NN>
+145 Jika/<*SC> kamu/<*PRP> sudah/<*MD> mengerti/<*VBT> ,/<*,> maka/<*SC> kamu/<*PRP> harus/<*MD> menemui/<*VBT> dia/<*PRP>
+<SENTENCE>
+	<S>
+		<*SC>
+		<S>
+			<NP>
+				<*PRP>
+			<VP>
+				<*MD>
+				<*VBT>
+		<*,>
+		<*SC>
+		<S>
+			<NP>
+				<*PRP>
+			<VP>
+				<*MD>
+				<VP>
+					<*VBT>
+					<NP>
+						<*PRP>
+146 Hal/<*NN> yang/<*SC> dia/<*PRP> ajarkan/<*NN> sangat/<*RB> berarti/<*VBI>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*NN>
+			<*SC>
+			<NP>
+				<*PRP>
+				<*NN>
+		<VP>
+			<*RB>
+			<*VBI>
+147 Api/<*NN> semangatnya/<*NN> menyala/<*VBT> begitu/<*RB> cerah/<*JJ> karena/<*CC> dia/<*PRP> yakin/<*JJ> memenangkan/<*VBT> kompetisi/<*NN> itu/<*DT>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*NN>
+				<*NN>
+			<VP>
+				<*VBT>
+				<ADVP>
+					<*RB>
+					<*JJ>
+		<*CC>
+		<S>
+			<NP>
+				<*PRP>
+			<VP>
+				<*JJ>
+				<VP>
+					<*VBT>
+					<NP>
+						<NP>
+							<*NN>
+						<*DT>
+148 Saya/<*PRP> mungkin/<*RB> tidak/<*NEG> dapat/<*MD> menyapa/<*VBT> anda/<*NN> 
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<ADVP>
+			<*RB>
+		<VP>
+			<*NEG>
+			<VP>
+				<*MD>
+				<*VBT>
+			<NP>
+				<*NN>
+149 Satu/<*CDP> kematian/<*NN> adalah/<*VBT> tragedi/<*NN> ,/<*,> tetapi/<*CC> satu/<*CDP> juta/<*CDP> kematian/<*NN> hanya/<*RB> statistik/<*NN>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*CDP>
+				<*NN>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NN>
+		<*,>
+		<*CC>
+		<S>
+			<NP>
+				<QP>
+					<*CDP>
+					<*CDP>
+				<NP>
+					<*NN>
+			<VP>
+				<*RB>
+				<NP>
+					<*NN>
+150 Dia/<*PRP> mengharapkan/<*VBI> keajaiban/<*NN> datang/<*VBI> saat/<*SC> ini/<*DT>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*VBI>
+			<NP>
+				<NP>
+					<*NN>
+				<VP>
+					<*VBI>
+					<NP>
+						<*SC>
+						<*DT>
+151 Saya/<*PRP> membeli/<*VBT> teh/<*NN> di/<*IN> sana/<*PRL>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*PRP>
+		<VP>
+			<VP>
+				<*VBT>			
+				<*NN>
+		<PP>
+			<*IN>
+			<*PRL>
+152 Di/<*IN> situ/<*NN> ada/<*VBI> pertunjukkan/<*NN> menarik/<*JJ>
+<SENTENCE>
+	<S>
+		<PP>
+			<*IN>
+			<NP>
+				<*NN>
+		<VP>
+			<*VBI>
+			<NP>
+				<*NN>
+				<*JJ>
+153 Ada/<*VBI> beberapa/<*CDI> orang/<*NN> yang/<*SC> menunggu/<*VBI> dia/<*PRP> dari/<*IN> tadi/<*RB>
+<SENTENCE>
+	<S>
+		<NP>
+			<*VBI>
+			<NP>
+				<*CDI>
+				<*NN>
+		<*SC>
+		<VP>
+			<VP>
+				<VP>
+					<*VBI>
+					<NP>
+						<*PRP>
+				<PP>
+					<*IN>
+					<*RB>
+154 Bobi/<*NNP> tidak/<*NEG> pernah/<*MD> mengerjakan/<*VBT> tugasnya/<*NN> di/<*IN> sini/<*PRL> 
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<*NEG>
+			<VP>
+				<*MD>
+				<VP>
+					<*VBT>
+					<NP>
+						<*NN>
+			<PP>
+				<*IN>
+				<*PRL>
+155 Hari/<*NN> ini/<*DT> tidak/<*NEG> muncul/<*VBT> banyak/<*JJ> permasalahan/<*NN> sulit/<*JJ> ./<*.> 
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*NN>
+				<*DT>
+			<VP>
+				<*NEG>
+				<VP>
+					<*VBT>
+					<NP>
+						<*JJ>
+						<NP>
+							<*NN>
+							<*JJ>
+		<*.>
+156 Aku/<*NN> sudah/<*RB> tidak/<*NEG> sabar/<*NN> membahas/<*VBT> masalah/<*NN> tadi/<*RB> 
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+		<VP>
+			<*RB>
+			<VP>
+				<*NEG>
+				<VP>
+					<VP>
+						<*NN>
+						<*VBT>
+					<NP>
+						<*NN>
+						<*RB>
+157 Nenek/<*NNP> berbelanja/<*VBI> sayuran/<*NN> di/<*IN> pasar/<*NN> dan/<*CC> Kakek/<*NN> membersihkan/<*VBT> pekarangan/<*NN>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*NNP>
+			<VP>
+				<*VBI>
+				<*NN>
+			<PP>
+				<*IN>
+				<NP>
+					<*NN>
+		<*CC>
+		<S>
+			<NP>
+				<*NN>
+			<VP>
+				<*VBT>
+				<*NN>
+158 Hari/<*NN> ini/<*DT> adalah/<*VBT> hari/<*NN> yang/<*SC> sangat/<*RB> cerah/<*JJ> ./<*.>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*NN>
+				<*DT>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NN>
+					<*SC>
+					<VP>
+						<*RB>
+						<*JJ>
+		<*.>
+159 Gula/<*NN> untuk/<*IN> membuat/<*VBT> teh/<*NN> sudah/<*MD> habis/<*VBI>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+			<PP>
+				<*IN>
+				<VP>
+					<*VBT>
+					<*NN>
+			<VP>
+				<*MD>
+				<*VBI>
+160 Dia/<*PRP> berlari/<*VBI> mengelilingi/<*VBT> lapangan/<*NN> di/<*IN> kompleknya/<*NN> 
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*VBI>
+			<VP>
+				<*VBT>
+				<*NN>
+			<PP>
+				<*IN>
+				<*NN>
+161 Di/<*IN> sini/<*PRL> pernah/<*NN> terjadi/<*VBI> suatu/<*DT> peperangan/<*NN> besar/<*JJ>
+<SENTENCE>
+	<S>
+		<S>
+			<PP>
+				<*IN>
+				<*PRL>
+			<VP>
+				<*NN>
+				<*VBI>
+			<NP>
+				<*DT>
+				<*NN>
+				<ADJP>
+					<*JJ>
+162 Orang/<*NN> tua/<*JJ> itu/<*DT> tidak/<*NEG> sampai/<*VBT> hati/<*NN> melihat/<*VBT> perlakuan/<*NN> mereka/<*PRP> terhadap/<*IN> anaknya/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<NP>
+				<*NN>
+				<*JJ>
+			<*DT>
+		<VP>
+			<*NEG>
+			<VP>
+				<VP>
+					<*VBT>
+					<*NN>
+				<VP>
+					<VP>
+						<*VBT>
+					<NP>
+						<*NN>
+						<*PRP>
+					<PP>
+						<*IN>
+						<*NN>
+163 Hari/<*NN> ini/<*DT> mungkin/<*RB> adalah/<*VBT> hari/<*NN> keberuntunganku/<*NN> ./<*.>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*NN>
+				<*DT>
+			<VP>
+				<*RB>
+				<VP>
+					<VP>
+						<*VBT>
+					<NP>
+						<*NN>
+						<*NN>
+		<*.>
+164 Beberapa/<*CDI> orang/<*NN> pergi/<*VBI> bersama/<*IN> dia/<*PRP>
+<SENTENCE>
+	<S>
+		<NP>
+			<*CDI>
+			<*NN>
+		<VP>
+			<VP>
+				<*VBI>
+				<PP>
+					<*IN>
+					<*PRP>
+165 Mereka/<*PRP> dipukul/<*VBT> sampai/<*VBT> mati/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*VBT>
+			<ADVP>
+				<*VBT>
+				<*NN>
+166 Beberapa/<*CDI> waktu/<*NN> yang/<*SC> lalu/<*JJ> ,/<*,> dia/<*PRP> sudah/<*MD> meninggalkan/<*VBT> tempat/<*NN> ini/<*DT>
+<SENTENCE>
+	<S>
+		<ADVP>
+			<*CDI>
+			<NP>
+				<*NN>
+			<ADJP>
+				<*SC>
+				<*JJ>
+		<*,>
+		<NP>
+			<NP>
+				<*PRP>
+		<VP>
+			<*MD>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NN>
+					<*DT>
+167 Dia/<*PRP> pergi/<*VBI> ke/<*IN> pasar/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*VBI>
+			<PP>
+				<*IN>
+				<*NN>
+168 Tugasku/<*NNP> sudah/<*MD> selasai/<*NN> ./<*.>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<*MD>
+			<*NN>
+		<*.>
+169 Kamu/<*PRP> pernah/<*NN> bermain/<*JJ> di/<*IN> sana/<*PRL>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*NN>
+			<VP>
+				<*JJ>
+				<PP>
+					<*IN>
+					<*PRL>
+170 Intelegensia/<*NN> Buatan/<*NN> sudah/<*MD> berkembang/<*VBI> sangat/<*RB> pesat/<*JJ> di/<*IN> dunia/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+			<*NN>
+		<VP>
+			<VP>				
+				<*MD>
+				<*VBI>
+			<ADVP>
+				<*RB>
+				<VP>
+					<*JJ>
+					<PP>
+						<*IN>
+						<*NN>
+171 Tugas/<*NN> ini/<*DT> sangat/<*RB> sulit/<*JJ> sekali/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+			<*DT>
+		<VP>
+			<*RB>
+			<VP>
+				<*JJ>
+				<*NN>
+172 Sudah/<*MD> saatnya/<*NN> anda/<*NN> mengungkapkannya/<*VBT>
+<SENTENCE>
+	<S>
+		<ADVP>
+			<*MD>
+			<*NN>
+		<NP>
+			<*NN>
+		<VP>
+			<*VBT>
+173 Dia/<*PRP> mencoba/<*VBT> membuka/<*VBT> toko/<*NN> di/<*IN> sana/<*PRL>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*VBT>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NN>
+					<PP>
+						<*IN>
+						<*PRL>
+174 Hari/<*NN> ini/<*DT> cerah/<*FW> tetapi/<*CC> dia/<*PRP> murung/<*NN>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*NN>
+				<*DT>
+			<VP>
+				<*FW>
+		<*CC>
+		<S>
+			<NP>
+				<*PRP>
+			<VP>
+				<*NN>
+175 Tadi/<*RB> pagi/<*NN> terjadi/<*VBI> kecelakaan/<*NN> lalu/<*JJ> lintas/<*NN> di/<*IN> jalan/<*NN>
+<SENTENCE>
+	<S>
+		<PP>
+			<*RB>
+			<NP>
+				<*NN>
+		<VP>
+			<*VBI>
+		<NP>
+			<*NN>
+			<NP>
+				<*JJ>
+				<*NN>
+			<PP>
+				<*IN>
+				<*NN>
+176 Saya/<*PRP> mencoba/<*VBT> untuk/<*IN> mengerti/<*VBT> perasaan/<*NN> dia/<*PRP>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<VP>
+				<*VBT>
+				<PP>
+					<*IN>
+					<*VBT>
+			<NP>
+				<*NN>
+				<NP>
+					<*PRP>
+177 Suatu/<*DT> hari/<*NN> ayah/<*NN> pergi/<*VBI> ke/<*IN> kantor/<*NN>
+<SENTENCE>
+	<S>
+		<PP>
+			<*DT>
+			<*NN>
+		<NP>
+			<*NN>
+		<VP>
+			<*VBI>
+			<PP>
+				<*IN>
+				<*NN>
+178 Adik/<*NNP> membeli/<*VBT> buku/<*NN> gambar/<*NN> di/<*IN> toko/<*NN> tadi/<*RB> malam/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NN>
+					<*NN>
+			<PP>
+				<*IN>
+				<*NN>
+			<PP>
+				<*RB>
+				<*NN>
+179 Pekerjaanya/<*NN> belum/<*NEG> selesai/<*NN> sama/<*JJ> sekali/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+		<VP>
+			<*NEG>
+			<VP>
+				<*NN>
+				<ADJP>
+					<*JJ>
+					<NP>
+						<*NN>
+180 Dia/<*PRP> menang/<*VBT> dengan/<*IN> mudah/<*JJ>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<*VBT>
+			<PP>
+				<*IN>
+				<*JJ>
+181 Saya/<*PRP> membeli/<*VBT> teh/<*NN> hijau/<*NN> kemarin/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*PRP>
+		<VP>
+			<VP>
+				<*VBT>
+			<NP>
+				<*NN>
+				<NP>
+					<*NN>
+			<PP>
+				<*NN>
+182 Di/<*IN> sana/<*PRL> banyak/<*JJ> anak/<*NN> kecil/<*JJ>
+<SENTENCE>
+	<S>
+		<PP>
+			<*IN>
+			<*PRL>
+		<VP>
+			<*JJ>
+			<NP>
+				<*NN>
+				<*NN>
+183 Orang/<*NN> itu/<*DT> dilarang/<*VBT> membawa/<*VBT> binatang/<*NN> peliharaan/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+			<*DT>
+		<VP>
+			<*VBT>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NN>
+					<*NN>
+184 Doni/<*NNP> pernah/<*NN> memakan/<*VBT> ular/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<*NN>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NN>
+185 Menjadi/<*VBT> seorang/<*NN> juara/<*NN> adalah/<*VBT> hal/<*NN> yang/<*SC> tidak/<*NEG> mudah/<*JJ>
+<SENTENCE>
+	<S>
+		<NP>
+			<*VBT>
+			<NP>
+				<*NN>
+				<NP>
+					<*NN>
+		<VP>
+			<*VBT>
+			<NP>
+				<*NN>
+				<*SC>
+				<ADJP>
+					<*NEG>
+					<*JJ>
+186 Perguruan/<*NN> tinggi/<*JJ> menghasilkan/<*VBT> banyak/<*JJ> sarjana/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+			<*JJ>
+		<VP>
+			<VP>
+				<*VBT>
+				<NP>
+					<*JJ>
+					<NP>
+						<*NN>
+187 Nenek/<*NNP> menggunakan/<*VBT> kursi/<*NN> untuk/<*IN> duduk/<*VBI> di/<*IN> taman/<*NN>
+<SENTENCE>
+	<S>
+		<NP>
+			<*NNP>
+		<VP>
+			<VP>
+				<*VBT>
+				<NP>
+					<*NN>
+			<PP>
+				<*IN>
+				<*VBI>
+			<PP>
+				<*IN>
+				<*NN>
+188 Hari/<*NN> ini/<*DT> tidak/<*NEG> boleh/<*MD> terjadi/<*VBI> permasalahan/<*NN>
+<SENTENCE>
+	<S>
+		<PP>
+			<*NN>
+			<*DT>
+		<VP>
+			<*NEG>
+			<VP>
+				<*MD>
+				<VP>
+					<*VBI>
+					<NP>
+						<*NN>
+189 Kalimat/<*NN> ini/<*DT> salah/<*JJ> karena/<*CC> kata/<*NN> sebab/<*NN> tidak/<*NEG> ada/<*VBI> pada/<*IN> POS/<*NN> Tagger/<*NN>
+<SENTENCE>
+	<S>
+		<S>
+			<NP>
+				<*NN>
+				<*DT>
+			<VP>	
+				<*JJ>
+		<*CC>
+		<S>
+			<NP>
+				<*NN>
+				<*NN>
+			<VP>
+				<*NEG>
+				<VP>
+					<*VBI>
+					<PP>
+						<*IN>
+						<NP>
+							<*NN>
+							<*NN>
+190 Kesabaranku/<*NN> belum/<*NEG> habis/<*VBI> karena/<*CC> engkau/<*NN> menyemangatiku/<*VBT>
+<SENTENCE>
+<S>
+	<S>
+		<NP>
+			<*NN>
+		<VP>
+			<*NEG>
+			<*VBI>
+	<*CC>
+	<S>
+		<NP>
+			<*NN>
+		<VP>
+			<*VBT>
+191 Perbuatan/<*NN> dia/<*PRP> tidak/<*NEG> bijak/<*NN> tadi/<*RB> pagi/<*NN> ./<*.> 
+<SENTENCE>
+	<S>
+		<NP>
+			<*NN>
+			<*PRP>
+		<VP>
+			<*NEG>
+			<VP>
+				<*NN>
+			<PP>
+				<*RB>
+				<*NN>
+		<*.>
+192 Bagaimana/<*WP> dia/<*PRP> pergi/<*VBI> ?/<*.>
+<SENTENCE>
+	<S>
+		<SBARQ>
+			<*WP>
+			<NP>
+				<*PRP>
+			<VP>
+				<*VBI>
+		<*.>
+193 Mengapa/<*WP> dia/<*PRP> melakukan/<*VBT> itu/<*DT> ?/<*.>
+<SENTENCE>
+	<S>
+		<SBARQ>
+			<*WP>
+			<NP>
+				<NP>
+					<*PRP>
+			<VP>
+				<VP>
+					<*VBT>
+				<*DT>
+		<*.>
+194 Dimana/<*WP> buku/<*NN> itu/<*DT> ?/<*.>
+<SENTENCE>
+	<S>
+		<SBARQ>
+			<*WP>
+			<NP>
+				<*NN>
+				<*DT>
+		<*.>
+195 Siapa/<*WP> yang/<*SC> tampan/<*VBI> ?/<*.>
+<SENTENCE>
+	<S>
+		<SBARQ>
+			<*WP>
+			<VP>
+				<*SC>
+				<*VBI>
+		<*.>
+196 Siapa/<*WP> yang/<*SC> membaca/<*VBT> buku/<*NN> ?/<*.> 
+<SENTENCE>
+	<S>
+		<SBARQ>
+			<*WP>
+			<*SC>
+			<VP>
+				<*VBT>
+				<*NN>
+		<*.>
+197 Apa/<*WP> yang/<*SC> dia/<*PRP> lakukan/<*VBI> ?/<*.>
+<SENTENCE>
+	<S>
+		<SBARQ>
+			<*WP>
+			<*SC>
+			<VP>
+				<*PRP>
+				<*VBI>
+		<*.>
+198 Apa/<*WP> yang/<*SC> dia/<*PRP> makan/<*VBT> ?/<*.>
+<SENTENCE>
+	<S>
+		<SBARQ>
+			<*WP>
+			<*SC>
+			<VP>
+				<*PRP>
+				<*VBT>
+		<*.>
+199 Kemana/<*NN> dia/<*PRP> pergi/<*VBI> ?/<*.>
+<SENTENCE>
+	<S>		
+		<*NN>
+		<VP>
+			<*PRP>
+			<*VBI>
+		<*.>
+200 Kapan/<*NN> dia/<*PRP> pulang/<*VBI> ?/<*.>
+<SENTENCE>
+	<S>
+		<*NN>
+		<VP>
+			<*PRP>
+			<*VBI>
+	<*.>

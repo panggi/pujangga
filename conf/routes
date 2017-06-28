@@ -1,0 +1,18 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# https://www.playframework.com/documentation/latest/ScalaRouting
+# ~~~~
+
+GET     /                               controllers.HomeController.index
+POST    /formalizer                     controllers.FormalizerController.formalizer
+POST    /netagger                       controllers.NamedEntityController.tagger
+POST    /postagger                      controllers.PartOfSpeechController.tagger
+POST    /phrasechunker                  controllers.PhraseController.chunker
+POST    /sentence/tokenizer             controllers.SentencesController.tokenizer
+POST    /sentence/tokenizer/composite   controllers.SentencesController.tokenizerComposite
+POST    /sentence/splitter              controllers.SentencesController.splitter
+POST    /stemmer                        controllers.StemmerController.stemmer
+POST    /stopwords                      controllers.StopwordsController.remover
+POST    /word2vec/arithmetic            controllers.Word2VecController.arithmetic
+POST    /word2vec/nearestwords          controllers.Word2VecController.nearestWords
+POST    /word2vec/similarity            controllers.Word2VecController.similarityWords

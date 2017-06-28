@@ -1,0 +1,8 @@
+Bupati
+Camat
+Dubes
+Gubernur
+Lurah
+Presiden
+Walikota
+Wapres

@@ -2,6 +2,8 @@
 
 This is an interface for InaNLP and Deeplearning4j's Word2Vec for Indonesian (Bahasa Indonesia)
 
+![screenshot](https://panggi.s3.amazonaws.com/public/media/pujangga.jpg "Screenshot of Pujangga request and response using Paw REST Client")
+
 ### Credits:
 
 * [Dr. Eng. Ayu Purwarianti, ST.,MT., et al](http://ieeexplore.ieee.org/document/7803103/)

@@ -409,7 +409,7 @@ Response:
 
 ## License
 
-All files in `libs` and `resource` are the property of [Dr. Eng. Ayu Purwarianti, ST.,MT., et al](http://ieeexplore.ieee.org/document/7803103/) and not part of below license.
+All files in `libs` and `resource` directories are the property of [Dr. Eng. Ayu Purwarianti, ST.,MT., et al](http://ieeexplore.ieee.org/document/7803103/) and not part of the license below (Apache License, Version 2.0).
 
 All other custom codes made by Panggi Libersa Jasri Akadol are licensed under the Apache License, Version 2.0 (the "License"); you may not use this project except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
 

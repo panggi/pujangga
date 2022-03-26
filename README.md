@@ -11,6 +11,7 @@ Below is the screenshot of Pujangga's request and response using Paw REST Client
 
 * [Dr. Eng. Ayu Purwarianti, ST.,MT., et al](http://ieeexplore.ieee.org/document/7803103/)
 * [Yudi Wibisono, MT.](https://yudiwbs.wordpress.com/2016/11/17/word2vec-untuk-bahasa-indonesia/)
+* InaNLP related resources copied from [teaolivia](https://github.com/teaolivia/noSPAM/tree/master/noSPAM/lib)
 
 ## Local Setup
 

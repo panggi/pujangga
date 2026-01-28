@@ -9,12 +9,12 @@ import IndonesianNLP._
 @Singleton
 class StopwordsController @Inject()(cc: ControllerComponents) extends AbstractController(cc) {
   val formalizer = new IndonesianSentenceFormalization
+  formalizer.initStopword()
 
   def remover: Action[JsValue] = Action(parse.json) { implicit request: Request[JsValue] =>
     val string = (request.body \ "string").as[String]
 
     Try {
-      formalizer.initStopword()
       formalizer.deleteStopword(string)
     } match {
       case Success(removed) => Ok(Json.obj("status" -> "success", "data" -> removed))
